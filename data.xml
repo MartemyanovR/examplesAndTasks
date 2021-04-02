@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Shop>
+  <Group id="1" name="Bakery">
+    <Product id="1">
+      <Name>Broad</Name>
+      <Price>25</Price>
+      <Amount type="pcs">5</Amount>
+    </Product>
+	<Product id="2">
+      <Name>Broad2</Name>
+      <Price>35</Price>
+      <Amount type="pcs">15</Amount>
+    </Product>
+	<Product id="3">
+      <Name>Broad3</Name>
+      <Price>45</Price>
+      <Amount type="pcs">8</Amount>
+    </Product>
+	<Product id="4">
+      <Name>Broad4</Name>
+      <Price>50</Price>
+      <Amount type="pcs">7</Amount>
+    </Product>
+	<Product id="5">
+      <Name>Broad5</Name>
+      <Price>25</Price>
+      <Amount type="pcs">2</Amount>
+    </Product>
+  </Group>
+   <Group id="2" name="Meat">
+    <Product id="6">
+      <Name>sausage</Name>
+      <Price>250</Price>
+      <Amount type="pcs">5</Amount>
+    </Product>
+	<Product id="7">
+      <Name>pork</Name>
+      <Price>280</Price>
+      <Amount type="kg">17.5</Amount>
+    </Product>
+	<Product id="8">
+      <Name>ham</Name>
+      <Price>340</Price>
+      <Amount type="kg">5.5</Amount>
+    </Product>
+	<Product id="9">
+      <Name>chicken legs</Name>
+      <Price>220</Price>
+      <Amount type="kg">25</Amount>
+    </Product>
+  </Group>
+</Shop>
